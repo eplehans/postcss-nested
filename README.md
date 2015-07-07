@@ -6,6 +6,8 @@
 
 [PostCSS] plugin to unwrap nested rules like how Sass does it.
 
+Install it by running `$ npm install postcss-nested --save-dev`
+
 ```css
 .phone {
     &_title {
